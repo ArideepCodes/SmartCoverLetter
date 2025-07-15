@@ -5,7 +5,7 @@ This is a Python-based AI tool that generates customized cover letters using you
 ---
 
 ## 🚀 Live Demo
-🔗 Hosted at: [SmartCoverLetterGenerator.streamlit.app](https://coverlettergenerator.streamlit.app/)  
+🔗 Hosted at: https://smartcoverletter-9a9ms7w5njhdyzuszb7hbk.streamlit.app/
 ⚠️ You’ll need an OpenAI API key to use the app.
 
 ---
